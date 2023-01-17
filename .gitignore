@@ -1,0 +1,7 @@
+hassio-addon-vault/terraform/.terraform/*
+hassio-addon-vault/terraform/terraform.tfstate*
+*.pyc
+.idea
+.DS_Store
+venv/
+.vscode
